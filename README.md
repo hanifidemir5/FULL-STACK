@@ -78,4 +78,3 @@ Once you have the project set up, you can:
 This project is licensed under the [MIT License](LICENSE).
 
 Happy dining!
-```
