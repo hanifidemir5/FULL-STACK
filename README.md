@@ -1,4 +1,3 @@
-```markdown
 # FULL-STACK Restaurant Project
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/FULL-STACK)
