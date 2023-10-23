@@ -1,6 +1,6 @@
 # FULL-STACK Restaurant Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/FULL-STACK)
+![GitHub last commit](https://img.shields.io/github/last-commit/hanifidemir5/Full-Stack)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 This repository houses a full-stack restaurant project, employing Django, HTML, CSS, JavaScript, and MySQL as the database. Customers can make reservations, view available days and hours, and receive real-time updates to ensure a seamless booking experience.
